@@ -1,0 +1,8 @@
+export { default as DepartmentsDemo } from './DepartmentsDemo'
+export { default as AddDepartment } from './AddDepartment'
+export { default as EditDepartment } from './EditDepartment'
+export { default as DeleteDepartment } from './DeleteDepartment'
+export { DepartmentActionsMenu } from './DepartmentActionsMenu'
+export { default as DepartmentSchedule } from './DepartmentSchedule'
+export { default as AddSchedule } from './AddSchedule'
+export { default as WeeklySchedule } from './WeeklySchedule'
